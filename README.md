@@ -1,4 +1,4 @@
-<img width="200" height="768" alt="Logo GT" src="https://github.com/user-attachments/assets/34aa26cc-cb01-490b-a522-c786794ff2b5" />
+<img width="200" height="350" alt="Logo GT" src="https://github.com/user-attachments/assets/34aa26cc-cb01-490b-a522-c786794ff2b5" />
 # Green Titans ♻️
 **Меняем отходы на токен**
 
