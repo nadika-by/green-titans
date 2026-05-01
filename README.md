@@ -1,5 +1,5 @@
 [English](#green-titans) | [Русский](#green-titans-ru)
-
+<img width="350" height="200" alt="Logo GT" src="https://github.com/user-attachments/assets/34aa26cc-cb01-490b-a522-c786794ff2b5" />
 # Green Titans ♻️
 **Turning Waste into Tokens**
 
