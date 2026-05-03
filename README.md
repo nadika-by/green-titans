@@ -38,3 +38,7 @@ The **$SEED** token is the core utility asset of the Green Titans DePIN network,
     * Payment for ecosystem services (Clean water, Organic fertilizers).
     * Access to secure data destruction services (State archives/HDD shredding).
     * <img width="1000" height="993" alt="Лого SEED " src="https://github.com/user-attachments/assets/c1902ec3-b028-44d2-9bb7-e05e51ff9ded" />
+    ## Mobile Application Interface
+
+The Green Titans mobile app allows users to manage their $SEED tokens, track recycling contributions, and interact with the DePIN network in real-time.
+<img width="1316" height="800" alt="GREEN TITANS App" src="https://github.com/user-attachments/assets/63f09a67-ce4f-461b-b381-979c68d1a57f" />
