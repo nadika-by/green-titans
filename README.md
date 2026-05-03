@@ -42,3 +42,8 @@ The **$SEED** token is the core utility asset of the Green Titans DePIN network,
 
 The Green Titans mobile app allows users to manage their $SEED tokens, track recycling contributions, and interact with the DePIN network in real-time.
 <img width="1316" height="800" alt="GREEN TITANS App" src="https://github.com/user-attachments/assets/63f09a67-ce4f-461b-b381-979c68d1a57f" />
+### Mobile Application Features:
+* **Instant Rewards:** Users receive **$SEED** tokens immediately after verifying waste delivery at our collection points.
+* **Real-time Balance:** Seamless integration with the Solana blockchain to track your $SEED assets.
+* **Transparent Activity:** Every exchange of plastic, glass, or paper is recorded on-chain for maximum transparency.
+* **Exchange Hub:** A simple interface to manage and exchange resources within the Green Titans ecosystem.
