@@ -2,7 +2,10 @@
 <img width="350" height="200" alt="Logo GT" src="https://github.com/user-attachments/assets/34aa26cc-cb01-490b-a522-c786794ff2b5" />
 # Green Titans ♻️
 **Turning Waste into Tokens**
+**[English]** This project is integrated with World ID. [View Details](INTEGRATION.md)  
+**[Русский]** Проект интегрирован с World ID. [Подробнее](INTEGRATION.md)
 
+---
 ## About the Project
 A DePIN (Decentralized Physical Infrastructure Network) of "Digital Waste Exchangers" powered by the Solana blockchain. We transform plastic collection into a transparent process for building social capital.
 
