@@ -25,7 +25,7 @@
 
 <p align="center">
   <img src="visuals/app_mockup.png" width="48%" alt="Green Titans App">
-  <img src="visuals/token_design .jpg" width="48%" alt="Green Titans Token">
+  <img src="visuals/token_design .jpg" width="25%" alt="Green Titans Token">
 </p>
 
 * **Mobile App:** Инструмент пользователя для учета сданных ресурсов и управления токенами.
