@@ -1,38 +1,66 @@
+# 🌿 GREEN TITANS: The Art of Taming the Dragon / Искусство приручения Дракона
 
-# 🌿 GREEN TITANS: The Art of Taming the Dragon
-
-**Green Titans** is a high-tech ecosystem for deep waste recycling, built on the principles of the circular economy and secured by the **Solana** blockchain.
-
----
-
-## 💎 The Vision
-> "Man is a Warrior; the State is an unwieldy Machine; Woman is Nature herself, and only she has the power to tame the Dragon!"
-
-Where others see a war with waste, we see the transformation of "Migrant-Waste" into valuable resources. We don't fight the chaos — we architect the harmony.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nadika-by/green-titans/main/visuals/logo.png" width="200" alt="Green Titans Logo">
+  <br>
+  <i>Deep Recycling Ecosystem & Transparency Protocol</i>
+</p>
 
 ---
 
-## 📖 Project Architecture (Documentation)
+## 🖼️ Visual Manifesto / Визуальный манифест
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nadika-by/green-titans/main/visuals/guardian_state.jpg" width="100%" alt="Green Titans Philosophy Visual">
+</p>
+
+---
+
+## 💎 The Vision / Видение
+
+> **EN:** "Man is a Warrior; the State is an unwieldy Machine; Woman is Nature herself, and only she has the power to tame the Dragon!"
+> 
+> **RU:** "Мужчина — это Воин; Государство — это неповоротливая Машина; Женщина — это сама Природа, и именно ей под силу приручить Дракона!"
+
+---
+
+## 📱 App Interface & Token / Интерфейс и Токен
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nadika-by/green-titans/main/visuals/app_mockup.jpg" width="45%" alt="Mobile App">
+  <img src="https://raw.githubusercontent.com/nadika-by/green-titans/main/visuals/token_design.jpg" width="45%" alt="Green Titans Token">
+</p>
+
+---
+
+## 📖 Project Architecture / Архитектура проекта
+
 Explore the depth of the project through our dedicated strategic modules:
+Изучите глубину проекта через специализированные стратегические модули:
 
-* **[📜 Philosophy & Mission](./PHILOSOPHY.md)** — The core values and the "Path of Taming."
-* **[🏛️ Government Strategy](./GOVERNMENT_STRATEGY.md)** — Benefits for the Guardian State and land reclamation.
-* **[💼 Business Model](./BUSINESS_MODEL.md)** — Turning environmental costs into economic assets.
-* **[👥 Social Impact](./PEOPLE_IMPACT.md)** — Health, jobs, and a new quality of life for people.
+* **[📜 Philosophy & Mission / Философия и миссия](./PHILOSOPHY.md)** — The "Path of Taming" / Путь приручения.
+* **[🏛️ Government Strategy / Стратегия и Государство](./GOVERNMENT_STRATEGY.md)** — Land reclamation and PPP / ГЧП и возврат земель.
+* **[💼 Business Model / Бизнес-модель](./BUSINESS_MODEL.md)** — ESG and efficiency / ESG и эффективность.
+* **[👥 Social Impact / Социальное влияние](./PEOPLE_IMPACT.md)** — Health and jobs / Здоровье и рабочие места.
 
 ---
 
-## 🛠 Technical Transparency (Powered by Solana)
-We use blockchain technology to ensure absolute trust in waste processing data:
+## 🛠 Technical Transparency / Техническая прозрачность (Powered by Solana)
+
+**EN:** We use blockchain technology to ensure absolute trust in waste processing data:
 * **Immutable Logs:** Every ton of processed waste is recorded.
 * **ESG Verification:** Transparent reporting for green investments.
-* **Resource Tracking:** Real-time monitoring of "Migrant-Waste" transformation.
+
+**RU:** Мы используем блокчейн для обеспечения абсолютного доверия к данным о переработке:
+* **Неизменяемые логи:** Каждая тонна переработанных отходов фиксируется в сети.
+* **ESG-верификация:** Прозрачная отчетность для «зеленых» инвестиций.
 
 ---
 
-## 👤 Solo-Founder & Architect
-**Nadezhda Kazantseva** — Visionary, Architect of Meanings, and Creative Director. 
+## 👤 Solo-Founder & Architect / Автор и Архитектор
+
+**Nadezhda Kazantseva / Надежда Казанцева** — Visionary, Architect of Meanings, and Creative Director. 
 *Founder of LANDORA Holding.*
 
 ---
-*Developed for the Global Hackathon Arena 2026.*
+*Developed for the Global Hackathon Arena 2026 / Разработано для Global Hackathon Arena 2026*
