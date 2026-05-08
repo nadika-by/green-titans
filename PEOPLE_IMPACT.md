@@ -39,5 +39,4 @@ The activities of Green Titans fundamentally change the quality of life for ever
 
 ---
 > **"From a neighbor of a landfill to a resident of a green city."**
-> **"От соседа свалки — к жителю зеленого города."**<img width="1316" height="800" alt="Green Titans    Люди" src="https://github.com/user-attachments/assets/29c5848a-5e33-4660-adeb-787875b1155a" />
-<img width="1316" height="800" alt="Green Titans    Люди" src="https://github.com/user-attachments/assets/c80165f3-8764-4a22-944b-4b1491c1713b" />
+> **"От соседа свалки — к жителю зеленого города."**
