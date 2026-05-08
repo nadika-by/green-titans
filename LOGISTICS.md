@@ -1,3 +1,6 @@
+<img width="1408" height="768" alt="GT и Хранитель" src="https://github.com/user-attachments/assets/3672e292-01ac-4f1e-a45e-1eaa54fa62e9" />
+
+
 # 🏛️ THE DIVINE ARCHITECTURE OF EXCHANGE / БОЖЕСТВЕННАЯ АРХИТЕКТУРА ОБМЕНА
 
 ### The GChP/PPP Model: Why We Are Unstoppable. / Модель ГЧП: Почему мы неуязвимы.
