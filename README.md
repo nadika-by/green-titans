@@ -1,65 +1,62 @@
-# 🌿 GREEN TITANS: The Art of Taming the Dragon / Искусство приручения Дракона
+# 🌿 GREEN TITANS: Digital Waste-to-Token Exchange Protocol
 
 <p align="center">
   <img src="visuals/logo.png" width="200" alt="Green Titans Logo">
   <br>
-  <i>Deep Recycling Ecosystem & Transparency Protocol</i>
+  <b>Цифровая экосистема трансформации отходов в ликвидные активы на базе Solana</b>
 </p>
 
 ---
 
-## 🖼️ Visual Manifesto / Визуальный манифест
+## ⚙️ How It Works / Механика системы
+
+**Green Titans** — это децентрализованный протокол, который превращает физические отходы в цифровой капитал.
+
+1.  **Supply (Поставщики):** Люди сдают отходы через мобильное приложение.
+2.  **Verification (Верификация):** Технологические узлы фиксируют объем и тип сырья.
+3.  **Minting (Эмиссия):** Блокчейн Solana мгновенно генерирует токены, которые поступают на кошелек пользователя.
+4.  **Circulation (Оборот):** Токены используются в расчетах с бизнесом и государством, создавая реальную экономическую ценность.
+
+---
+
+## 🏛️ Triple Alliance / Тройственный союз
 
 <p align="center">
-  <img src="visuals/guardian_state.png" width="100%" alt="Green Titans Philosophy Visual">
+  <img src="visuals/guardian_state.png" width="100%" alt="State & Business Integration">
 </p>
 
----
-
-## 💎 The Vision / Видение
-
-> **EN:** "Man is a Warrior; the State is an unwieldy Machine; Woman is Nature herself, and only she has the power to tame the Dragon!"
-> 
-> **RU:** "Мужчина — это Воин; Государство — это неповоротливая Машина; Женщина — это сама Природа, и именно ей под силу приручить Дракона!"
+* **PEOPLE (ЛЮДИ):** Поставщики сырья, создающие свой личный капитал из того, что раньше было мусором.
+* **BUSINESS (БИЗНЕС):** Получатели дешевого вторичного сырья и энергии, улучшающие ESG-показатели.
+* **STATE (ГОСУДАРСТВО):** Хранитель системы, обеспечивающий легитимность, безопасность и возврат земель в оборот.
 
 ---
 
-## 📱 App Interface & Token / Интерфейс и Токен
+## 📱 Digital Assets / Цифровые активы
 
 <p align="center">
-  <img src="visuals/app_mockup.png" width="45%" alt="Mobile App">
-  <img src="visuals/token_design.jpg" width="45%" alt="Green Titans Token">
+  <img src="visuals/app_mockup.png" width="45%" alt="User Mobile Wallet">
+  <img src="visuals/token_design.jpg" width="45%" alt="Waste-Back Token">
 </p>
 
----
-
-## 📖 Project Architecture / Архитектура проекта
-
-Изучите глубину проекта через специализированные стратегические модули:
-
-* **[📜 Philosophy & Mission / Философия и миссия](./PHILOSOPHY.md)** — Путь приручения.
-* **[🏛️ Government Strategy / Стратегия и Государство](./GOVERNMENT_STRATEGY.md)** — ГЧП и возврат земель.
-* **[💼 Business Model / Бизнес-модель](./BUSINESS_MODEL.md)** — ESG и эффективность.
-* **[👥 Social Impact / Социальное влияние](./PEOPLE_IMPACT.md)** — Здоровье и рабочие места.
+* **App:** Личный кабинет пользователя для мониторинга сданных отходов и баланса токенов.
+* **Token:** Цифровой эквивалент ресурса, обеспеченный реальными мощностями переработки.
 
 ---
 
-## 🛠 Technical Transparency / Техническая прозрачность (Powered by Solana)
+## 📖 Ecosystem Documentation / Документация
 
-**EN:** We use blockchain technology to ensure absolute trust in waste processing data:
-* **Immutable Logs:** Every ton of processed waste is recorded.
-* **ESG Verification:** Transparent reporting for green investments.
-
-**RU:** Мы используем блокчейн для обеспечения абсолютного доверия к данным о переработке:
-* **Неизменяемые логи:** Каждая тонна переработанных отходов фиксируется в сети.
-* **ESG-верификация:** Прозрачная отчетность для «зеленых» инвестиций.
+* **[🏛️ Strategic Alliance](./GOVERNMENT_STRATEGY.md)** — Модель взаимодействия с государством.
+* **[💼 Business Economy](./BUSINESS_MODEL.md)** — Токеномика и выгода для предприятий.
+* **[👥 Capital for People](./PEOPLE_IMPACT.md)** — Как люди создают благосостояние через экологию.
+* **[📜 Core Philosophy](./PHILOSOPHY.md)** — Глубинная логика Архитектора проекта.
 
 ---
 
-## 👤 Solo-Founder & Architect / Автор и Архитектор
-
-**Nadezhda Kazantseva / Надежда Казанцева** — Visionary, Architect of Meanings, and Creative Director. 
-*Founder of LANDORA Holding.*
+## 🛠 Technology / Технологии
+* **Blockchain:** Solana (высокая скорость, низкие комиссии).
+* **Transparency:** Полная прослеживаемость каждой единицы мусора от сдачи до переработки.
+* **Sustainability:** Переход от экономики потребления к экономике создания капитала.
 
 ---
-*Developed for the Global Hackathon Arena 2026 / Разработано для Global Hackathon Arena 2026*
+**Founder & Architect:** Nadezhda Kazantseva / Надежда Казанцева
+**LANDORA Holding** | *Karaganda, Kazakhstan*
