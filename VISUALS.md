@@ -1,4 +1,4 @@
-# 🐉 VISUALIZING THE GREEN TITANS PARALLEL STRATEGY / ВИЗУАЛИЗАЦИЯ ПАРАЛЛЕЛЬНОЙ СТРАТЕГИИ GREEN TITANS
+<img width="1408" height="768" alt="4 картинка Монстр" src="https://github.com/user-attachments/assets/405bde1b-a41e-4fe2-b6fe-8cdab1b07347" /># 🐉 VISUALIZING THE GREEN TITANS PARALLEL STRATEGY / ВИЗУАЛИЗАЦИЯ ПАРАЛЛЕЛЬНОЙ СТРАТЕГИИ GREEN TITANS
 
 This document visually explains the scale of the problem we face and the unique solution pioneered by Green Titans.
 
@@ -6,7 +6,9 @@ This document visually explains the scale of the problem we face and the unique 
 
 ## 1️⃣ PHASE 1: THE ECO-DRAGON (THE REALITY) / ЭТАП 1: ЭКОЛОГИЧЕСКИЙ ЗМЕЙ (РЕАЛЬНОСТЬ)
 
-[LINK TO image_0.png]
+<img width="1408" height="768" alt="1 картинка Монстр" src="https://github.com/user-attachments/assets/8ae5430c-63ba-49a5-abba-0c36cc3abd92" />
+<img width="1408" height="768" alt="2 картинка Монстр" src="https://github.com/user-attachments/assets/0252cf40-5fb9-41c4-9fcb-e38e41a5b422" />
+
 
 The monster we face is a five-headed monstrosity created by humanity's inaction. It feeds on our waste and neglect, growing stronger while we look to the stars. This represents the cumulative problem across land and water.
 
@@ -16,7 +18,7 @@ The monster we face is a five-headed monstrosity created by humanity's inaction.
 
 ## 2️⃣ PHASE 2: THE TAMING & TRANSFORMATION (THE GREEN RING) / ЭТАП 2: УКРОЩЕНИЕ И ТРАНСФОРМАЦИЯ (ЗЕЛЕНОЕ КОЛЬЦО)
 
-[LINK TO image_4.png]
+<img width="1408" height="768" alt="2 картинка Монстр" src="https://github.com/user-attachments/assets/64bb15f8-b13a-4f5b-b5af-ce893fa9ca21" />
 
 This is the heart of our strategy. We don't wait for old landfills to disappear; we simultaneously run a parallel process of stopping the flow and deep remediation. Propitiatory mobile modules intercept daily waste and convert it into industrial resources (Eco-Bricks).
 
@@ -26,7 +28,7 @@ This is the heart of our strategy. We don't wait for old landfills to disappear;
 
 ## 3️⃣ PHASE 3: THE SOLANA ECOSYSTEM & DEPIN RING / ЭТАП 3: ЭКОСИСТЕМА SOLANA И КОЛЬЦО DEPIN
 
-[LINK TO image_6.png (Top Part)]
+<img width="1408" height="768" alt="3 картинка Монстр" src="https://github.com/user-attachments/assets/8bedb976-48ad-4a78-b6bb-2dc14e27b3d4" />
 
 To ensure long-term stability, transparency, and eliminate human error, the entire process is secured by the **Solana Blockchain**. The first pulsing ecosystem ring encapsulates the Dragon. Decentralized Physical Infrastructure Networks (DePIN) ensure unalterable tracking of every kilogram of waste and every Eco-Brick produced. Efficiency is fueled by decentralized transactions for waste exchange and tokenization ($SEED).
 
@@ -38,7 +40,7 @@ To ensure long-term stability, transparency, and eliminate human error, the enti
 
 ## 4️⃣ PHASE 4: THE PARTNERSHIP & GOVERNANCE RING (PPP) / ЭТАП 4: ПАРТНЕРСТВО И КОЛЬЦО УПРАВЛЕНИЯ (ГЧП)
 
-[LINK TO image_6.png (Bottom Part)]
+<img width="1408" height="768" alt="4 картинка Монстр" src="https://github.com/user-attachments/assets/c606fc16-affe-444f-a41d-9e5785fa05dc" />
 
 The ultimate success relies on aligning the interests of all participants. A second, even tighter golden ring of interests forms around the Solana ring. This represents the ultimate unbreakability of Green Titans—The Social Contract.
 
