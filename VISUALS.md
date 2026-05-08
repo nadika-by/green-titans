@@ -1,4 +1,4 @@
-<img width="1408" height="768" alt="4 картинка Монстр" src="https://github.com/user-attachments/assets/405bde1b-a41e-4fe2-b6fe-8cdab1b07347" /># 🐉 VISUALIZING THE GREEN TITANS PARALLEL STRATEGY / ВИЗУАЛИЗАЦИЯ ПАРАЛЛЕЛЬНОЙ СТРАТЕГИИ GREEN TITANS
+ 🐉 VISUALIZING THE GREEN TITANS PARALLEL STRATEGY / ВИЗУАЛИЗАЦИЯ ПАРАЛЛЕЛЬНОЙ СТРАТЕГИИ GREEN TITANS
 
 This document visually explains the scale of the problem we face and the unique solution pioneered by Green Titans.
 
@@ -7,8 +7,6 @@ This document visually explains the scale of the problem we face and the unique 
 ## 1️⃣ PHASE 1: THE ECO-DRAGON (THE REALITY) / ЭТАП 1: ЭКОЛОГИЧЕСКИЙ ЗМЕЙ (РЕАЛЬНОСТЬ)
 
 <img width="1408" height="768" alt="1 картинка Монстр" src="https://github.com/user-attachments/assets/8ae5430c-63ba-49a5-abba-0c36cc3abd92" />
-<img width="1408" height="768" alt="2 картинка Монстр" src="https://github.com/user-attachments/assets/0252cf40-5fb9-41c4-9fcb-e38e41a5b422" />
-
 
 The monster we face is a five-headed monstrosity created by humanity's inaction. It feeds on our waste and neglect, growing stronger while we look to the stars. This represents the cumulative problem across land and water.
 
@@ -40,8 +38,6 @@ To ensure long-term stability, transparency, and eliminate human error, the enti
 
 ## 4️⃣ PHASE 4: THE PARTNERSHIP & GOVERNANCE RING (PPP) / ЭТАП 4: ПАРТНЕРСТВО И КОЛЬЦО УПРАВЛЕНИЯ (ГЧП)
 
-<img width="1408" height="768" alt="4 картинка Монстр" src="https://github.com/user-attachments/assets/c606fc16-affe-444f-a41d-9e5785fa05dc" />
-
 The ultimate success relies on aligning the interests of all participants. A second, even tighter golden ring of interests forms around the Solana ring. This represents the ultimate unbreakability of Green Titans—The Social Contract.
 
 * **Governments (GChP/PPP):** For administrative and large-scaleindustrial support.
@@ -54,7 +50,7 @@ The ultimate success relies on aligning the interests of all participants. A sec
 
 🏆 **PHASE 5: THE VISION ACHIEVED (THE LEGEND STONE) / ЭТАП 🏆: ВОПЛОЩЕННОЕ ВИДЕНИЕ (КАМЕНЬ ЛЕГЕНДЫ)**
 
-[LINK TO image_2.png]
+<img width="1408" height="768" alt="4 картинка Монстр" src="https://github.com/user-attachments/assets/c606fc16-affe-444f-a41d-9e5785fa05dc" />
 
 This is the future Green Titans is building. When the flow is stopped, the parallel remediations are complete, the technical transparency is secured, and the interests are aligned, nature reclaiming its divine right is the final outcome. The Dragon becomes a sleeping stone.
 
