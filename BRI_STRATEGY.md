@@ -9,7 +9,6 @@ The **Green Titans** project is a key technological pillar within the planned in
 ## 🎓 1. BloomResources Institute (BRI)
 <img width="1316" height="800" alt="bri_university_campus" src="https://github.com/user-attachments/assets/dd6e9ada-1c97-4b43-8d30-930f646e3772" />
 
-![bri_university_campus](images/bri_university_campus.png)
 BRI is designed as the R&D and educational core of the holding, aimed at forming a talent pool for the new circular economy.
 
 ### **BRI University (Higher Education)**
@@ -19,16 +18,12 @@ Planned as a hub for innovation-driven professions. Training is intended to be i
 
 ### **Technopolis "CORE" College (Vocational Training)**
 <img width="1316" height="800" alt="bri_core_college_proctical_training" src="https://github.com/user-attachments/assets/4d1de7e7-ccce-4a92-a580-c87501ea51b9" />
-
-![bri_core_college_practical](images/bri_core_college_practical.png)
 Designed to train masters and maintenance personnel. The primary focus is on practical skills for operating Green Titans production lines and eco-city infrastructure.
 
 ---
 
 ## 📜 2. "Chronograph" Methodology Department
 <img width="1316" height="800" alt="bri_chronograph_field_knowledge_capture" src="https://github.com/user-attachments/assets/4098ea74-07e2-4198-938a-b24da3567522" />
-
-![bri_chronograph_field_work](images/bri_chronograph_field_work.png)
 Instead of relying on outdated theories, the Holding plans to implement a live knowledge accumulation system (**"The Chronicle Protocol"**).
 
 * **Field Work:** Specialized "Chronographers" will document every stage of development directly on-site: in factories, at construction sites, and on the move.
