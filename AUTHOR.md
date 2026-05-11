@@ -1,6 +1,7 @@
 # 🕊️ FOUNDER'S MESSAGE / ПРИВЕТСТВИЕ АВТОРА
 
 ### Welcome to my project! / Приветствую тебя в моем проекте!
+<img width="648" height="964" alt="1аватар с ии" src="https://github.com/user-attachments/assets/31c01254-6369-4edb-84be-1274e2a0cf2d" />
 
 ---
 
