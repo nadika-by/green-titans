@@ -1,52 +1,52 @@
 
 # 🌿 GREEN TITANS: Digital Waste-to-Token Exchange Protocol
 
-<p align="center">
-  <img src="visuals/logo.png" width="250" alt="Green Titans Logo">
-  <br>
-  <b>Цифровая экосистема трансформации отходов в капитал через блокчейн Solana</b>
-</p>
+> **[EN]** Digital ecosystem for transforming waste into capital via Solana blockchain.
+> **[RU]** Цифровая экосистема трансформации отходов в капитал через блокчейн Solana.
 
 ---
 
-## ⚙️ Цифровой обменник: Механика активов
+## 🌍 English Version
 
+### 📜 Project Overview
+**Green Titans** is a protocol that separates the management of physical resources from digital liabilities. We create a transparent system where every participant finds their benefit through a circular economy model.
+
+### ⚙️ Asset Mechanics
+The protocol bridges the gap between ecological impact and financial rewards by tokenizing recycled materials.
+
+### 👥 Roles & Rewards
+1. **PEOPLE (Suppliers):** Submit sorted waste via the mobile app and receive instant token rewards. This builds personal capital through environmental contribution.
+2. **BUSINESS:** Acquires clean raw materials for production and exchanges industrial waste for tokens, integrating into the digital economy.
+3. **GOVERNMENT:** Acts as the system guarantor. The token is backed exclusively by the state via **PPP (Public-Private Partnership)** contracts, ensuring stability and legitimacy.
+4. **BLOCKCHAIN (Solana):** The technical foundation ensuring data integrity and transparent transactions.
+
+### 🛠 Tech Stack
+* **Solana Network:** High-speed transactions with minimal fees.
+* **State Guarantee:** Token as a tool for national eco-balance regulation.
+* **Industrial Cycle:** Direct supply chain from supplier to manufacturer.
+
+---
+
+## 🇷🇺 Русская Версия
+
+### 📜 Обзор проекта
 **Green Titans** — это протокол, который разделяет управление физическими ресурсами и цифровыми обязательствами. Мы создаем прозрачную систему, где каждый участник получает свою выгоду.
 
-### Роли и вознаграждения:
-1.  **ЛЮДИ (Поставщики):** Сдают отсортированные отходы и через мобильное приложение получают мгновенное вознаграждение в токенах. Это позволяет гражданам формировать личный капитал за счет экологического вклада.
-2.  **БИЗНЕС:** Получает чистое сырье для своего производства, а также становится участником системы сдачи промышленных отходов в обмен на токены, участвуя в цифровой экономике.
-3.  **ГОСУДАРСТВО:** Выступает гарантом системы. **Токен обеспечивается исключительно государством через контракт ГЧП**, что делает его стабильным и легитимным цифровым активом.
-4.  **БЛОКЧЕЙН (Solana):** Технический фундамент, исключающий подделку данных и гарантирующий прозрачность каждой транзакции.
+### ⚙️ Механика активов
+Протокол связывает экологический вклад с финансовым вознаграждением через токенизацию вторичного сырья.
 
----
+### 👥 Роли и вознаграждения
+1. **ЛЮДИ (Поставщики):** Сдают отсортированные отходы и через мобильное приложение получают мгновенное вознаграждение в токенах. Это позволяет формировать личный капитал за счет эко-вклада.
+2. **БИЗНЕС:** Получает чистое сырье для производства и участвует в системе сдачи промышленных отходов в обмен на токены.
+3. **ГОСУДАРСТВО:** Выступает гарантом системы. Токен обеспечивается исключительно государством через **контракт ГЧП (Государственно-частное партнерство)**.
+4. **БЛОКЧЕЙН (Solana):** Технический фундамент, исключающий подделку данных и гарантирующий прозрачность.
 
-## 📱 Цифровой инструментарий / Digital Assets
-
-<p align="center">
-  <img src="visuals/app_mockup.png" width="48%" alt="Green Titans App">
-  <img src="visuals/token_design .jpg" width="25%" alt="Green Titans Token">
-</p>
-
-* **Mobile App:** Инструмент пользователя для учета сданных ресурсов и управления токенами.
-* **Token:** Ликвидный актив, обеспеченный обязательствами государства в рамках контракта ГЧП.
-
----
-
-## 🏛️ Стратегические модули проекта
-
-* **[💼 Business Economy](./BUSINESS_MODEL.md)** — Оптимизация производственных циклов.
-* **[👥 Capital for People](./PEOPLE_IMPACT.md)** — Механика формирования благосостояния граждан.
-* **[🏛️ Strategic Alliance](./GOVERNMENT_STRATEGY.md)** — Юридическая база: ГЧП и государственные гарантии.
-* **[📜 Core Philosophy](./PHILOSOPHY.md)** — Логика архитектуры системы.
-
----
-
-## 🛠 Технологический стек
+### 🛠 Технологический стек
 * **Solana Network:** Мгновенная фиксация транзакций с минимальными издержками.
 * **State Guarantee:** Токен как инструмент государственного регулирования эко-баланса.
 * **Industrial Cycle:** Прямая поставка вторичного сырья от поставщика к производителю.
 
 ---
-**Founder & Architect:** Nadezhda Kazantseva / Надежда Казанцева
+
+**Founder & Architect:** Nadezhda Kazantseva / Надежда Казанцева  
 **LANDORA Holding** | *Karaganda, Kazakhstan*
