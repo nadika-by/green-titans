@@ -4,6 +4,8 @@
 > **[EN]** Digital ecosystem for transforming waste into capital via Solana blockchain.
 > 
 > **[RU]** Цифровая экосистема трансформации отходов в капитал через блокчейн Solana.
+> 
+[ 🛠 Technical Specification / Техническое задание ](./TECH_LOGIC.md)
 
 <img width="800" height="500" alt="logo" src="https://github.com/user-attachments/assets/6e7ece48-8b67-4923-b19d-083733f9aadd" />
 
